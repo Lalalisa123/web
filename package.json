@@ -56,7 +56,7 @@
     "bootstrap-vue": "2.18.0",
     "daterangepicker": "3.0.5",
     "dompurify": "^2.2.9",
-    "gsap": "3.6.0",
+    "gsap": "3.11.3",
     "highlight.js": "10.4.1",
     "ipfs-api": "^26.1.2",
     "jquery": "3.5.1",
