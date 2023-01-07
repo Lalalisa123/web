@@ -10197,10 +10197,10 @@ vue-plyr@^7.0.0:
     plyr "github:sampotts/plyr#develop"
     vue "^2.6.12"
 
-vue-select@3.10.8:
-  version "3.10.8"
-  resolved "https://registry.yarnpkg.com/vue-select/-/vue-select-3.10.8.tgz#5d0839cba228a9a5efa1a88e5436840eb3fd0c7a"
-  integrity sha512-PnjtZWCTiSr04bs8ctPIiU41qnBK+oh/SOe6Pb4gElMMxofDFwUxiUe++mz0+84aTy4zrleGxtvVVyWbiPYBiw==
+vue-select@3.20.1:
+  version "3.20.1"
+  resolved "https://registry.yarnpkg.com/vue-select/-/vue-select-3.20.1.tgz#c33303cac3a68e93c06abeb45f7abc7aeb4440bf"
+  integrity sha512-My+nF8UgfappKG1dSC993jemKPLs+QhfbisL8H6UYqDIhL/+idUi5PS5Cjl7pkoFIYMXCDjtFVHKeCXvuBVojQ==
 
 vue-tel-input@^4.4.1:
   version "4.4.2"
