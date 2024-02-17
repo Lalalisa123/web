@@ -8787,10 +8787,10 @@ secrets.js-grempe@^2.0.0:
   resolved "https://registry.yarnpkg.com/secrets.js-grempe/-/secrets.js-grempe-2.0.0.tgz#65b32bf6bfe4f40e8ed0e44dc74f469e293a4ab8"
   integrity sha512-4xkOIaDAg998dTFXZUJTOoVbdLHfB818SMeLJ69ABccgGEKokxsoRFupAFfAImloUSKv4QUGNMgKVbKMf6z0Ug==
 
-select2@4.0.11:
-  version "4.0.11"
-  resolved "https://registry.yarnpkg.com/select2/-/select2-4.0.11.tgz#85c6243971947a798d96808ab608f75d5befa2d1"
-  integrity sha512-8Z/yd43F5EMOkz2Mo+aE7nOx2i8nSuxGZVFkbeyCklkU+WTwCa+xdZqG+IPgZ75lkEkLD+X+f8vEG9aKBxISqA==
+select2@4.0.13:
+  version "4.0.13"
+  resolved "https://registry.yarnpkg.com/select2/-/select2-4.0.13.tgz#0dbe377df3f96167c4c1626033e924372d8ef44d"
+  integrity sha512-1JeB87s6oN/TDxQQYCvS5EFoQyvV6eYMZZ0AeA4tdFDYWN3BAGZ8npr17UBFddU0lgAt3H0yjX3X6/ekOj1yjw==
 
 semaphore@>=1.0.1, semaphore@^1.0.3:
   version "1.1.0"
